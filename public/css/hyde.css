@@ -39,9 +39,9 @@ html {
     font-size: 16px;
   }
 }
-@media (min-width: 28em) {
+@media (min-width: 58em) {
   html {
-    font-size: 16px;
+    font-size: 20px;
   }
 }
 
