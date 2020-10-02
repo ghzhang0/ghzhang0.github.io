@@ -59,7 +59,7 @@ html {
   color: rgba(0,0,0,.5);
   background-color: #F0FFF0;
 }
-@media (min-width: 28em) {
+@media (min-width: 48em) {
   .sidebar {
     position: fixed;
     top: 0;
