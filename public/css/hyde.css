@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(0,0,0,.5);
-  min-height:35rem;
+  min-height:33rem;
   background-color: #F0FFF0;
 }
 @media (min-width: 48em) {
