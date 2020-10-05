@@ -1,13 +1,3 @@
-# Setup
-title: Grace H. Zhang
-# tagline:          'A Jekyll theme'
-# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://ghzhang0.github.io
-baseurl:          /
-email: ghzhang@g.harvard.edu
-googleAnalytics: UA-179500720-1
-description: >- # this means to ignore newlines until "baseurl:"
-
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -18,6 +8,16 @@ relative_permalinks: true
 theme: "hyde"
 plugins:
   - jekyll-feed
+  
+# Setup
+title: Grace H. Zhang
+# tagline:          'A Jekyll theme'
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              https://ghzhang0.github.io
+baseurl:          /
+email: ghzhang@g.harvard.edu
+googleAnalytics: UA-179500720-1
+description: >- # this means to ignore newlines until "baseurl:"
 
 
 # author:
