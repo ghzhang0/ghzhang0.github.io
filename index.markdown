@@ -18,7 +18,7 @@ Contact: ghzhang (at) g (dot) harvard (dot) edu
 ### Recent Work
 
 **Statistical Mechanics of Low Angle Grain Boundaries in Two Dimensions,**
-G. H. Zhang, David R. Nelson, (2020) [<span style="color:cadetblue">[arXiv:2009.03408]</span>](https://arxiv.org/abs/2009.03408)
+G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Phys. Rev. Lett. 125, 215503. (2020)</span>](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.215503) [<span style="color:cadetblue">[arXiv:2009.03408]</span>](https://arxiv.org/abs/2009.03408)
 
 **Statistical Mechanics of Dislocation Pileups in Two Dimensions,**
 G. H. Zhang, David R. Nelson, (2020) [<span style="color:cadetblue">[arXiv:2009.14402]</span>](https://arxiv.org/abs/2009.14402)
