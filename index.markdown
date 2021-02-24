@@ -17,11 +17,11 @@ Contact: ghzhang (at) g (dot) harvard (dot) edu
 
 ### Recent Work
 
+**Statistical Mechanics of Dislocation Pileups in Two Dimensions,**
+G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Phys. Rev. E 103, 022139. (2021)</span>](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.022139) (Editor's Suggestion) [<span style="color:cadetblue">[arXiv:2009.14402]</span>](https://arxiv.org/abs/2009.14402)
+
 **Statistical Mechanics of Low Angle Grain Boundaries in Two Dimensions,**
 G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Phys. Rev. Lett. 125, 215503. (2020)</span>](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.215503) [<span style="color:cadetblue">[arXiv:2009.03408]</span>](https://arxiv.org/abs/2009.03408)
-
-**Statistical Mechanics of Dislocation Pileups in Two Dimensions,**
-G. H. Zhang, David R. Nelson, (2020) [<span style="color:cadetblue">[arXiv:2009.14402]</span>](https://arxiv.org/abs/2009.14402)
 
 **Eigenvalue Repulsion and Eigenvector Localization in Sparse Non-Hermitian Random Matrices**,
 G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Physical Review E 100, 052315. (2019)</span>](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.052315) [<span style="color:cadetblue">[arXiv:1909.08741]</span>](https://arxiv.org/abs/1909.08741)
