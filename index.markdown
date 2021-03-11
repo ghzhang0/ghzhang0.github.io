@@ -36,6 +36,9 @@ G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Physical Review E 1
 
 **Fast Compact Laser Shutter Using a Direct Current Motor and 3D Printing**, G. H. Zhang, B. Braverman, A. Kawasaki, V. Vuletić, [<span style="color:cadetblue">Review of Scientific Instruments 86, 126105. (2015)</span>](https://aip.scitation.org/doi/10.1063/1.4937614) [<span style="color:cadetblue">[arXiv:1509.01566]</span>](https://arxiv.org/abs/1509.01566)
 
+---
+
+<span style="color:gray; font-size:4em;"> Theme by <a class="nav" href="https://github.com/poole/hyde">Hyde</a>.</span>
 <!-- ---
 ### Selected Talks
 
