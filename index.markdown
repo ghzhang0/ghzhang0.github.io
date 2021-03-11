@@ -38,14 +38,5 @@ G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Physical Review E 1
 
 ---
 
-<span style="color:gray; font-size:0.5em;"> Theme by <a class="nav" href="https://github.com/poole/hyde">Hyde</a>.</span>
-
-<!-- ---
-### Selected Talks
-**Statistical mechanics of dislocation pileups,**
-Kavli Seminar, Harvard University, Cambridge MA. 2020. 
-**Statistical mechanics of dislocation pileups,**
-APS March Meeting, Denver CO. 2020. 
-**Eigenvalue Repulsion and Eigenvector Localization in Sparse Non-Hermitian Random Matrices,**
-Condensed Matter Theory Graduate Student Seminar, Harvard University, Cambridge MA. 2019.  --!>
+[<span style="color:gray; font-size:1em;"> Theme by Hyde.</span>](https://github.com/poole/hyde)
 
