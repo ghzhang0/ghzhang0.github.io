@@ -18,17 +18,17 @@ Contact: ghzhang (at) g (dot) harvard (dot) edu
 ### Recent Work
 
 **Statistical Mechanics of Dislocation Pileups in Two Dimensions,**
-G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Phys. Rev. E 103, 022139. (2021)</span>](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.022139) (Editor's Suggestion) [<span style="color:cadetblue">[arXiv:2009.14402]</span>](https://arxiv.org/abs/2009.14402)
+G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Physical Review E 103, 022139. (2021)</span>](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.022139) (Editor's Suggestion) [<span style="color:cadetblue">[arXiv:2009.14402]</span>](https://arxiv.org/abs/2009.14402)
 
 **Statistical Mechanics of Low Angle Grain Boundaries in Two Dimensions,**
-G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Phys. Rev. Lett. 125, 215503. (2020)</span>](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.215503) [<span style="color:cadetblue">[arXiv:2009.03408]</span>](https://arxiv.org/abs/2009.03408)
+G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Physical Review Letters 125, 215503. (2020)</span>](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.215503) [<span style="color:cadetblue">[arXiv:2009.03408]</span>](https://arxiv.org/abs/2009.03408)
 
 **Eigenvalue Repulsion and Eigenvector Localization in Sparse Non-Hermitian Random Matrices**,
 G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Physical Review E 100, 052315. (2019)</span>](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.052315) [<span style="color:cadetblue">[arXiv:1909.08741]</span>](https://arxiv.org/abs/1909.08741)
 
 **Phase diagrams for quantum Brownian motion on two-dimensional Bravais lattices**, G. H. Zhang, [<span style="color:cadetblue">Physical Review B 96, 205440. (2017)</span>](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.205440) [<span style="color:cadetblue">[arXiv:1708.06007]</span>](https://arxiv.org/abs/1708.06007)
 
-**Sudden Collapse of Magnetic Order in Oxygen-Deficient Nickelate Films**, J. Li, R. J. Green, Z. Zhang, R. Sutarto, J. T. Sadowski, Z. Zhu, G. H. Zhang, D. Zhou, Y. Sun, F. He, S. Ramanathan, and R. Comin, [<span style="color:cadetblue">Phys. Rev. Lett., 126, 187602. (2021)</span>](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.187602) [<span style="color:cadetblue">[arXiv:2010.08545]</span>](https://arxiv.org/abs/2010.08545)
+**Sudden Collapse of Magnetic Order in Oxygen-Deficient Nickelate Films**, J. Li, R. J. Green, Z. Zhang, R. Sutarto, J. T. Sadowski, Z. Zhu, G. H. Zhang, D. Zhou, Y. Sun, F. He, S. Ramanathan, and R. Comin, [<span style="color:cadetblue">Physical Review Letters 126, 187602. (2021)</span>](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.187602) [<span style="color:cadetblue">[arXiv:2010.08545]</span>](https://arxiv.org/abs/2010.08545)
 
 **Photon-mediated interactions between quantum emitters in a diamond nanocavity**, R. E. Evans, M. K. Bhaskar, D. D. Sukachev, C. T. Nguyen, A. Sipahigil, M. J. Burek, B. Machielse, G. H. Zhang, A. S. Zibrov, E. Bielejec, H. Park, M. Loncar, M. D. Lukin, [<span style="color:cadetblue">Science 362 (6415), 662-665. (2018)</span>](https://science.sciencemag.org/content/362/6415/662) [<span style="color:cadetblue">[arXiv:1807.04265]</span>](https://arxiv.org/abs/1807.04265)
 
