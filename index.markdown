@@ -15,7 +15,13 @@ Contact: ghzhang (at) g (dot) harvard (dot) edu
 
 ---
 
-### Recent Work
+### Publications
+
+**Fractional defect charges in p-atic liquid crystals on cones**
+G. H. Zhang, David R. Nelson. (2022) [<span style="color:cadetblue">[arXiv:2201.11201]</span>](https://arxiv.org/abs/2201.11201)
+
+**Phonon localization of inhomogeneous lattices: Can you hear the shape of a cone?**
+G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Physical Review E 104.6, 065005. (2021)</span>](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.065005) (Editor's Suggestion) [<span style="color:cadetblue">[arXiv:2107.11431]</span>](https://arxiv.org/abs/2107.11431)
 
 **Statistical Mechanics of Dislocation Pileups in Two Dimensions,**
 G. H. Zhang, David R. Nelson, [<span style="color:cadetblue">Physical Review E 103, 022139. (2021)</span>](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.022139) (Editor's Suggestion) [<span style="color:cadetblue">[arXiv:2009.14402]</span>](https://arxiv.org/abs/2009.14402)
