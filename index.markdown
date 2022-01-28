@@ -1,10 +1,10 @@
----
+<!-- ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
 title: About
----
+--- -->
 ## About
 
 I'm a graduate student at the Harvard department of Physics, where I am fortunate to work with [<span style="color:cadetblue">David Nelson</span>](https://projects.iq.harvard.edu/nelson/people/david-nelson) under the support of NSF GRFP and the [<span style="color:cadetblue">Paul and Daisy Soros Fellowship</span>](https://www.pdsoros.org/meet-the-fellows/grace-huiling-zhang). I am broadly interested in the statistical physics of condensed matter and biological systems.   
