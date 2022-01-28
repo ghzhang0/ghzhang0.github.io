@@ -17,7 +17,7 @@ Contact: ghzhang (at) g (dot) harvard (dot) edu
 
 ### Publications
 
-**Fractional defect charges in p-atic liquid crystals on cones**
+**Fractional defect charges in p-atic liquid crystals on cones,**
 G. H. Zhang, David R. Nelson. (2022) [<span style="color:cadetblue">[arXiv:2201.11201]</span>](https://arxiv.org/abs/2201.11201)
 
 **Phonon localization of inhomogeneous lattices: Can you hear the shape of a cone?**
